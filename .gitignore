@@ -35,6 +35,7 @@ AGENTS.md
 CLAUDE.md
 GEMINI.md
 AGENTS.override.md
+notice.md
 
 # Tooling metadata
 .vscode/*
